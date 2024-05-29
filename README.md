@@ -4,3 +4,5 @@
 
 [^1]:使用RT-Thread源码版本为`rt-thread-v5.0.0`
 [^2]:ENV生成的工程为`keil-uvision5`版本，请用`keil-uvision5`打开
+
+**email:2582067029@qq.com**
